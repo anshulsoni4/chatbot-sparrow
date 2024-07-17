@@ -1,3 +1,5 @@
+![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/359abea0-bbd8-4187-8b39-c668dd21a218)
+
 # 🚀 Sparrow Chatbot Integration
 
 Welcome to the **Sparrow Chatbot Integration** project! This project showcases the integration of a chatbot within the Sparrow website to enhance user interaction and support. The chatbot is developed using the Tidio platform and leverages Lyro Chatbot AI for self-training based on our knowledge base.
