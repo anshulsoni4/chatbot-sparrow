@@ -5,20 +5,20 @@ This is a **chatbot created for sparrow**, which is a api testing, developement 
 <div align="center">
   <div>
     <a href="https://www.loom.com/share/974dd55b0c304ce1b042d9874d60b80c">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/974dd55b0c304ce1b042d9874d60b80c-with-play.gif">
+       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1f31743d1e854cbb9fa7afe1448bd494-ff160832aefa992e-full-play.gif">
     </a>
   </div>
 </div>
-
-## 📌 Screenshots of Chatbot integrated to webpage
-![phone ss](https://github.com/user-attachments/assets/abba558f-fc7c-4300-9644-6b5772c02087)
-![Mac Studio](https://github.com/user-attachments/assets/59784cc4-2337-40ab-a5d6-fefa922ba7d1)
-
+<div>
 
 
 ## 👨‍🔧 Solution Given 
 
 It is a chatbot that uses AI to generate answers according to the given query asked by users. We have trained the chat bot using our knowledge base, the chat bot is trained to answer questions related to sparrow API tool, API in general, backend questions, documentation questions, redirect to usefull URLs.
+
+## 📷 Video demo for the same 
+
+LINK to the video <a>href='https://www.loom.com/share/60f31022e2ee4404a1d09f42ecd32d3d?sid=b3ce70d6-a48f-433d-9797-2907f5384fd1'</a>
 
 
 ## 🛠 Features
@@ -33,6 +33,11 @@ It is a chatbot that uses AI to generate answers according to the given query as
 - **Lyro Chatbot AI:** Ensures continuous training and improvement of the chatbot, we have provided the knowledge base to it and the bot trains itself for answering the quering. We have provided the the document to lyro bot where it scrapes the data and trains it on that. 
 - **Google Sites:** For integrating the chatbot, (deployed version)
 - **HTML/CSS:** Basic web development to replicate the Sparrow website's interface.
+
+## 📌 Screenshots of Chatbot integrated to webpage
+![phone ss](https://github.com/user-attachments/assets/abba558f-fc7c-4300-9644-6b5772c02087)
+![Mac Studio](https://github.com/user-attachments/assets/59784cc4-2337-40ab-a5d6-fefa922ba7d1)
+
 
 ## 👨🏽‍💻 How to use the Bot 
 
