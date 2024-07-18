@@ -53,6 +53,12 @@ LINK to the video <a>href='https://www.loom.com/share/60f31022e2ee4404a1d09f42ec
 ![image](https://github.com/user-attachments/assets/86723df9-8410-401a-8aa5-6e50d0c928e5)
 
 
+## 🙌 You can also view the email id, person name and other for contact details that can be used into mail campanining and newsletters.
+![Untitled](https://github.com/user-attachments/assets/161c5c2c-a808-4fd6-83b0-bee1a3491c0e)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+For contact click this - https://bento.me/anshul-soni
 
 
 
