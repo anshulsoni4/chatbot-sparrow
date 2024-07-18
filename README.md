@@ -34,5 +34,22 @@ It is a chatbot that uses AI to generate answers according to the given query as
 - **Google Sites:** For integrating the chatbot, (deployed version)
 - **HTML/CSS:** Basic web development to replicate the Sparrow website's interface.
 
+## 👨🏽‍💻 How to use the Bot 
+
+- Click this link - https://sites.google.com/view/team-chatbot
+- scroll down and you will see this button 
+- click on this button and start with a hi message (it can be any message), you will see a window where you can write email to proceed further.
+- Now you can start chatting with the bot by writing the query you have related to sparrow and APIs in general.
+- Below are the images you can follow to get the process started. 
+
+![image](https://github.com/user-attachments/assets/8785fbfe-2f80-462e-812a-ced89589dd8f)
+![image](https://github.com/user-attachments/assets/614fc681-c330-474e-9e83-1c199a92fcde)
+![image](https://github.com/user-attachments/assets/f8d16d57-d0f3-45c9-9ce3-3d625a6d21ea)
+![image](https://github.com/user-attachments/assets/86723df9-8410-401a-8aa5-6e50d0c928e5)
+
+
+
+
+
 
 
